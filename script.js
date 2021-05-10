@@ -16,6 +16,6 @@ function clickOnDio() {
 	 		bg.style.animation = "none"
 	 		dio.style.filter = 'invert(0%)'
 	 	}
-	  	,10000);
+	  	,10500);
 	},1400)
 }
